@@ -3,10 +3,10 @@
 def breakfast(food="Frosted Flakes")
   puts "Morning is the best time for #{food}"
 end
-
+breakfast
 def lunch(food="Grilled Cheese")
   puts "Lunch is the best time for #{food}"
-  lunch
+
 end
 lunch
 
